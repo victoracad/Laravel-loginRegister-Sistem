@@ -1,4 +1,4 @@
-🔐 Sistema de Login e Registro em Laravel
+🔐 <h1>Sistema de Login e Registro em Laravel<\h1>
 Este repositório contém um sistema de autenticação desenvolvido em Laravel, incluindo:
 
 ✅ Cadastro e login de usuários
